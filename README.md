@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TrueMUNE
-- 👀 I’m interested in everything.
-- 🌱 I’m currently learning high school and as much as I can.
+- 👋 Hi, I’m Muhammed Nehan
+- 👀 I’m interested in Data Analytics.
+- 🌱 I’m currently mastering java and python.
 - 💞️ I’m looking to collaborate on me.
-- 📫 How to reach me - NEVER
+- 📫 How to reach me - muhammednehan07@gmail.com
 
